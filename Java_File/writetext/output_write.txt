@@ -1,0 +1,1 @@
+this is the file to read - selenium session 26 june 2023 from another file

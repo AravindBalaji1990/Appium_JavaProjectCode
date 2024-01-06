@@ -1,0 +1,4 @@
+This is an example for to use 
+of using BufferedWriter and 
+BufferedReader. 
+ This is my first line 26 june 2023.
